@@ -33,7 +33,7 @@ https://xunevega.gumroad.com/l/dataimporter-react
 
 ## Screenshots
 
-![DataImporter Preview](./screenshots/2.png)
+![DataImporter Preview](./screenshots/map.png)
 
 ## License
 
